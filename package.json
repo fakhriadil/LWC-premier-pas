@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/fakhriadil.lwc-l0toqr5w-fork-l0totaer",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve zWwxMl6zdTUokxse59bS --open"
+  }
+}
